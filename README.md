@@ -47,12 +47,12 @@ Changes that affect the build system or external dependencies, like npm, Gradle,
 build(deps): update dependency versions
 ```
 
-### `chore`
+### `upd`
 Routine tasks and maintenance activities that do not modify the source code.
 
 **Example:**
 ```scss
-chore: update .gitignore to exclude IDE files
+upd: update .gitignore to exclude IDE files
 ```
 
 ### `ci`
